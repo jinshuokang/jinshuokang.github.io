@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Super hero</title>
+  
+  <subtitle>Welcome home</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://jinshuokang.github.io/"/>
+  <updated>2018-04-12T07:30:09.998Z</updated>
+  <id>https://jinshuokang.github.io/</id>
+  
+  <author>
+    <name>Jin ShuoKang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>es6</title>
+    <link href="https://jinshuokang.github.io/post/es6.html"/>
+    <id>https://jinshuokang.github.io/post/es6.html</id>
+    <published>2018-04-10T09:16:10.000Z</published>
+    <updated>2018-04-12T07:30:09.998Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="HHH1"><a href="#HHH1" class="headerlink" title="HHH1"></a>HHH1</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;HHH1&quot;&gt;&lt;a href=&quot;#HHH1&quot; class=&quot;headerlink&quot; title=&quot;HHH1&quot;&gt;&lt;/a&gt;HHH1&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="Javascript" scheme="https://jinshuokang.github.io/tags/Javascript/"/>
+    
+  </entry>
+  
+</feed>
